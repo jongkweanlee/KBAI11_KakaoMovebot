@@ -14,3 +14,8 @@
 - <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 - <img src="https://img.shields.io/badge/IDE-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Groom IDE-%233DC8B4?style=for-the-badge">
+
+## 📌 주요기능 
+- 영화 예매 순위 1위에서 5위까지 확인 대화 박스를 클릭 시 CGV링크로 바로 연결
+- 더 보기 버튼을 이용하여 6위 부터 10위까지 확인 가능
+- goole api를 사용하여 현재 위치 조회, 로드뷰, 위성뷰, 지도 확대 또는 축소
