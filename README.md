@@ -8,6 +8,7 @@
 ## 🕰 개발기간
 * 23.12.4 ~ 23.12.15
 
-## 👥 개발 참여 인원 4명
+## 🧑‍🤝‍🧑 개발 참여 인원 4명
 
 ### ⚙ 개발 환경
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
