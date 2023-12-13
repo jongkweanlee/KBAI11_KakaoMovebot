@@ -12,3 +12,5 @@
 
 ### ⚙ 개발 환경
 - <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+- <img src="https://img.shields.io/badge/IDE-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/구름 IDE-#6df6ea?style=for-the-badge">
